@@ -1,0 +1,60 @@
+.card-img-top{
+    height: 60px; 
+    width: 60%;
+}
+h5{
+    margin-top: 5px;
+    text-align: center;
+}
+.img-thumbnail
+{
+    border-color: white;
+}
+.card-title
+{
+    font-weight: 550;
+}
+.card-img-top
+{
+    width: auto;
+}
+.card-image
+{
+    height: 50px;
+}
+.card-space
+{
+    margin-right: 6%;
+}
+.card
+{
+    margin-bottom: 5%;
+}
+.pp
+{
+    color: rgb(59, 168, 59);
+    display: inline-block;
+    margin-top: 8%;
+    margin-left: 1%;
+    margin-right: 23%;
+}
+.mat-button
+{
+    border-radius: 50%;
+}
+.md-auto
+{
+    padding-left: 180px;
+}
+.card-body h5
+{
+    font-weight: 600;
+}
+.pp-r
+{
+    color: rgb(59, 168, 59);
+    display: inline-block;
+    margin-top: 6%;
+    margin-left: 2%;
+    margin-right: 39%;
+}
